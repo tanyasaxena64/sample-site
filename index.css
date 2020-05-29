@@ -1,0 +1,22 @@
+
+h1 {
+    background-color: rgb(236, 204, 98);
+    text-align: center;
+}
+h2 {
+    background-color: rgb(196, 89, 89);
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 10vh;
+    text-align: center;
+    margin-top: 5vh;
+}
+.it {
+    background: linear-gradient(rgb(250, 214, 115),rgb(182, 129, 50)) ;
+}
